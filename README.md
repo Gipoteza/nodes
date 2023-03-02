@@ -1,2 +1,2 @@
-# nodes
-Gipoteza.com - blockhain company
+# Gipoteza.com - blockhain company
+

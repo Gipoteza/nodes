@@ -1,2 +1,2 @@
 # nodes
-welcome
+Gipoteza.com - blockhain company

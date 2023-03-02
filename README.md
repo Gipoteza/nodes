@@ -1,2 +1,2 @@
-# Gipoteza.com - blockhain company
+# Gipoteza.com - blockchain company
 

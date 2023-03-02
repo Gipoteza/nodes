@@ -7,4 +7,4 @@ echo -e "##   ####  ##  #########  ##     ##      ##      #########      ##     
 echo -e "##     ##  ##  ##         ##     ##      ##      ##           ##       ##    ##"
 echo -e "##     ##  ##  ##         ##     ##      ##      ##          ##        ##    ##"
 echo -e "#########  ##  ##         #########      ##      #########  #########  ##    ##" 
-echo -e "Gipoteza.com - blockchain company" 
+echo -e "Gipoteza.com - Building the future on the blockchain!" 
